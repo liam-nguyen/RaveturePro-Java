@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c566b3ae-9ddc-443c-9fa2-c202d8308d05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment/exceptions/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment/exceptions/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment/objects/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment/objects/MyObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Application (3)">
+  <component name="RunManager" selected="Application.Application (4)">
     <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignment.keywords.Application" />
       <module name="Raveture" />
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.inheritance.model.Application" />
+    <configuration name="Application (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.objects.Application" />
       <module name="Raveture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment.inheritance.model.*" />
+          <option name="PATTERN" value="assignment.objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application (4)" />
         <item itemvalue="Application.Application (3)" />
         <item itemvalue="Application.Application (2)" />
         <item itemvalue="Application.Application (1)" />
         <item itemvalue="Application.Game" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -147,26 +147,26 @@
       <screen x="1440" y="-1237" width="3840" height="2137" />
     </state>
     <state x="2447" y="-468" key="#com.intellij.ide.util.MemberChooser/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591669566417" />
-    <state width="1878" height="222" key="GridCell.Tab.0.bottom" timestamp="1591715577407">
+    <state width="1878" height="222" key="GridCell.Tab.0.bottom" timestamp="1591716528381">
       <screen x="1440" y="-1237" width="3840" height="2137" />
     </state>
     <state width="1878" height="638" key="GridCell.Tab.0.bottom/-3840.23.3840.2137/0.23.1440.877@-3840.23.3840.2137" timestamp="1590603404331" />
-    <state width="1878" height="222" key="GridCell.Tab.0.bottom/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591715577407" />
-    <state width="1878" height="222" key="GridCell.Tab.0.center" timestamp="1591715577406">
+    <state width="1878" height="222" key="GridCell.Tab.0.bottom/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591716528381" />
+    <state width="1878" height="222" key="GridCell.Tab.0.center" timestamp="1591716528380">
       <screen x="1440" y="-1237" width="3840" height="2137" />
     </state>
     <state width="1878" height="638" key="GridCell.Tab.0.center/-3840.23.3840.2137/0.23.1440.877@-3840.23.3840.2137" timestamp="1590603404330" />
-    <state width="1878" height="222" key="GridCell.Tab.0.center/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591715577406" />
-    <state width="1878" height="222" key="GridCell.Tab.0.left" timestamp="1591715577405">
+    <state width="1878" height="222" key="GridCell.Tab.0.center/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591716528380" />
+    <state width="1878" height="222" key="GridCell.Tab.0.left" timestamp="1591716528380">
       <screen x="1440" y="-1237" width="3840" height="2137" />
     </state>
     <state width="1878" height="638" key="GridCell.Tab.0.left/-3840.23.3840.2137/0.23.1440.877@-3840.23.3840.2137" timestamp="1590603404330" />
-    <state width="1878" height="222" key="GridCell.Tab.0.left/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591715577405" />
-    <state width="1878" height="222" key="GridCell.Tab.0.right" timestamp="1591715577406">
+    <state width="1878" height="222" key="GridCell.Tab.0.left/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591716528380" />
+    <state width="1878" height="222" key="GridCell.Tab.0.right" timestamp="1591716528381">
       <screen x="1440" y="-1237" width="3840" height="2137" />
     </state>
     <state width="1878" height="638" key="GridCell.Tab.0.right/-3840.23.3840.2137/0.23.1440.877@-3840.23.3840.2137" timestamp="1590603404331" />
-    <state width="1878" height="222" key="GridCell.Tab.0.right/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591715577406" />
+    <state width="1878" height="222" key="GridCell.Tab.0.right/1440.-1237.3840.2137/0.23.1440.877@1440.-1237.3840.2137" timestamp="1591716528381" />
     <state x="-2220" y="900" key="SettingsEditor" timestamp="1590600408328">
       <screen x="-3840" y="23" width="3840" height="2137" />
     </state>
